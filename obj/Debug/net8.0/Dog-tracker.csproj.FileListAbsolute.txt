@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Dog-tracker\bin\Debug\net8.0\Dog-tracker.exe
+C:\Users\DELL\source\repos\Dog-tracker\bin\Debug\net8.0\Dog-tracker.deps.json
+C:\Users\DELL\source\repos\Dog-tracker\bin\Debug\net8.0\Dog-tracker.runtimeconfig.json
+C:\Users\DELL\source\repos\Dog-tracker\bin\Debug\net8.0\Dog-tracker.dll
+C:\Users\DELL\source\repos\Dog-tracker\bin\Debug\net8.0\Dog-tracker.pdb
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\net8.0\Dog-tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\net8.0\Dog-tracker.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\net8.0\Dog-tracker.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\net8.0\Dog-tracker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\net8.0\Dog-tracker.sourcelink.json
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\net8.0\Dog-tracker.dll
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\net8.0\refint\Dog-tracker.dll
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\net8.0\Dog-tracker.pdb
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\net8.0\Dog-tracker.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\net8.0\ref\Dog-tracker.dll
