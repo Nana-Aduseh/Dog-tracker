@@ -1,12 +1,102 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{111004BA-2187-4667-923B-7233F39B7389}|Dog-tracker.csproj|c:\\users\\dell\\source\\repos\\dog-tracker\\registerdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{111004BA-2187-4667-923B-7233F39B7389}|Dog-tracker.csproj|solutionrelative:registerdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111004BA-2187-4667-923B-7233F39B7389}|Dog-tracker.csproj|c:\\users\\dell\\source\\repos\\dog-tracker\\retrivedogdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{111004BA-2187-4667-923B-7233F39B7389}|Dog-tracker.csproj|solutionrelative:retrivedogdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111004BA-2187-4667-923B-7233F39B7389}|Dog-tracker.csproj|c:\\users\\dell\\source\\repos\\dog-tracker\\registerdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111004BA-2187-4667-923B-7233F39B7389}|Dog-tracker.csproj|solutionrelative:registerdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111004BA-2187-4667-923B-7233F39B7389}|Dog-tracker.csproj|c:\\users\\dell\\source\\repos\\dog-tracker\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111004BA-2187-4667-923B-7233F39B7389}|Dog-tracker.csproj|solutionrelative:ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111004BA-2187-4667-923B-7233F39B7389}|Dog-tracker.csproj|c:\\users\\dell\\source\\repos\\dog-tracker\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{111004BA-2187-4667-923B-7233F39B7389}|Dog-tracker.csproj|solutionrelative:ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RetriveDogDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\RetriveDogDetails.cs",
+              "RelativeDocumentMoniker": "RetriveDogDetails.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\RetriveDogDetails.cs [Design]",
+              "RelativeToolTip": "RetriveDogDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:44:09.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDog.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\RegisterDog.cs",
+              "RelativeDocumentMoniker": "RegisterDog.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\RegisterDog.cs",
+              "RelativeToolTip": "RegisterDog.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA6wBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:40:30.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterDog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\RegisterDog.cs",
+              "RelativeDocumentMoniker": "RegisterDog.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\RegisterDog.cs [Design]",
+              "RelativeToolTip": "RegisterDog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:40:28.027Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\UI.cs",
+              "RelativeDocumentMoniker": "UI.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\UI.cs [Design]",
+              "RelativeToolTip": "UI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:34:30.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\UI.cs",
+              "RelativeDocumentMoniker": "UI.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Dog-tracker\\UI.cs",
+              "RelativeToolTip": "UI.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wCkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:19:42.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

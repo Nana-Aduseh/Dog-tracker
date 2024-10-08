@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\Dog-tracker.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\Dog_tracker.Properties.Resources.resources
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\Dog_tracker.RegisterDog.resources
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\Dog_tracker.RetriveDogDetails.resources
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\Dog_tracker.UI.resources
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\Dog-tracker.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\Dog-tracker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Dog-tracker\bin\Debug\Dog-tracker.exe.config
+C:\Users\DELL\source\repos\Dog-tracker\bin\Debug\Dog-tracker.exe
+C:\Users\DELL\source\repos\Dog-tracker\bin\Debug\Dog-tracker.pdb
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\Dog-tracker.exe
+C:\Users\DELL\source\repos\Dog-tracker\obj\Debug\Dog-tracker.pdb
