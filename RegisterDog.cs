@@ -24,7 +24,7 @@ namespace Dog_tracker {
                 MessageBox.Show("Enter an ID");
                 return;
             }
-            if (registry.ContainsKey(ID)) {
+            if (DogStorage.registry.ContainsKey(ID)) {
                 MessageBox.Show("A dog with this Tag ID is already registered.");
             } else {
                 MessageBox.Show("ID is Unregistered.");
@@ -37,7 +37,7 @@ namespace Dog_tracker {
                 MessageBox.Show("Enter an ID");
                 return;
             }
-            if (registry.ContainsKey(ID)) {
+            if (DogStorage.registry.ContainsKey(ID)) {
                 MessageBox.Show("A dog with this Tag ID is already registered.");
                 return;
             }
@@ -50,9 +50,32 @@ namespace Dog_tracker {
             string house_number = HouseNumberInput.Text;
 
             Dog dog = new Dog(ID, breed, age, height, weight, location, owner_name, house_number);
-            registry.Add(ID, dog);
-            using (StreamWriter writer = File.AppendText(path)) { writer.WriteLine(dog.ToEntry()); }
+            DogStorage.Add(ID, dog);
             MessageBox.Show("Registration Successful");
+        }
+
+        private void EditButton_Click(object sender, EventArgs e) {
+            string ID = IDTextBox.Text;
+            if (ID == "") {
+                MessageBox.Show("Enter an ID");
+                return;
+            }
+            if (!DogStorage.registry.ContainsKey(ID)) {
+                MessageBox.Show("A dog with this Tag ID is not registered.");
+                return;
+            }
+            string breed = BreedInput.Text;
+            int age = Convert.ToInt32(AgeInput.Value);
+            double height = Convert.ToDouble(HeightInput.Value);
+            double weight = Convert.ToDouble(WeightInput.Value);
+            string location = LocationInput.Text;
+            string owner_name = OwnerNameInput.Text;
+            string house_number = HouseNumberInput.Text;
+
+            Dog dog = new Dog(ID, breed, age, height, weight, location, owner_name, house_number);
+            if (MessageBox.Show("Are you sure you want to proceed?", "Alert!", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.No) return;
+            DogStorage.Edit(ID, dog);
+            MessageBox.Show("Edit Successful");
         }
     }
 }

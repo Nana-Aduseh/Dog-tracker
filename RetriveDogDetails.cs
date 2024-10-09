@@ -17,7 +17,7 @@ namespace Dog_tracker {
         }
         public void HideWindow() { Hide(); }
         private void RetriveButton_Click(object sender, EventArgs e) {
-            if (registry.TryGetValue(IDTextBox.Text, out Dog dog)) {
+            if (DogStorage.registry.TryGetValue(IDTextBox.Text, out Dog dog)) {
                 OutputTextBox.Text = dog.ToString();
             }
             else {

@@ -42,6 +42,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.RegisterButton = new System.Windows.Forms.Button();
+            this.EditButton = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.WeightInput)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.HeightInput)).BeginInit();
@@ -219,12 +220,23 @@
             this.RegisterButton.UseVisualStyleBackColor = true;
             this.RegisterButton.Click += new System.EventHandler(this.RegisterButton_Click);
             // 
+            // EditButton
+            // 
+            this.EditButton.Location = new System.Drawing.Point(12, 252);
+            this.EditButton.Name = "EditButton";
+            this.EditButton.Size = new System.Drawing.Size(75, 23);
+            this.EditButton.TabIndex = 5;
+            this.EditButton.Text = "Edit";
+            this.EditButton.UseVisualStyleBackColor = true;
+            this.EditButton.Click += new System.EventHandler(this.EditButton_Click);
+            // 
             // RegisterDog
             // 
             this.AcceptButton = this.CheckIDButton;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(287, 280);
+            this.Controls.Add(this.EditButton);
             this.Controls.Add(this.RegisterButton);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.CheckIDButton);
@@ -264,5 +276,6 @@
         private System.Windows.Forms.TextBox LocationInput;
         private System.Windows.Forms.TextBox BreedInput;
         private System.Windows.Forms.Button RegisterButton;
+        private System.Windows.Forms.Button EditButton;
     }
 }
